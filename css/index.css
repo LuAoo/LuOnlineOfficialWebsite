@@ -1,0 +1,222 @@
+#img_gif {
+    margin-top: -20px;
+}
+
+#nav_index {
+    background-color: white;
+    border: none;
+    box-shadow: 0 2px 8px rgba(50, 50, 50, .25);
+}
+
+#bs-example-navbar-collapse-1>ul>li>a {
+    font-size: 16px;
+    font-weight: bold;
+    color: #666666;
+    line-height: 35px;
+}
+
+#nav_hiddden span {
+    background-color: aquamarine;
+}
+
+#nav_hiddden:hover {
+    background-color: aquamarine;
+}
+
+#nav_hiddden:hover .icon-bar {
+    background-color: white;
+}
+
+#section_home {
+    width: 100%;
+    background-image: url(../images/home-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 65px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#section_home h2 {
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+
+#section_home p {
+    margin-bottom: 20px;
+    line-height: 35px;
+}
+
+#section_home img {
+    margin-top: 50px;
+}
+
+/* 遮罩 */
+
+.mask {
+    background-color: rgba(0, 0, 0, .7);
+    width: 100%;
+    height: 100%;
+    padding: 80px 0px;
+}
+
+#section_bbs {
+    margin: 50px 80px;
+}
+
+.bbs .thumbnail {
+    border: none;
+    text-align: center;
+    text-decoration: none;
+}
+
+.bbs .thumbnail h3 {
+    font-weight: bold;
+}
+
+.bbs .thumbnail:hover {
+    box-shadow: 0 2px 8px rgba(50, 50, 50, .25);
+    background-color: rgba(220, 220, 220, .4);
+}
+
+#section_html_container {
+    width: 100%;
+}
+
+#section_bootstrap_container {
+    width: 100%;
+}
+
+.html_tt {
+    background-color: #F5F5F5;
+    padding: 80px 150px;
+}
+
+.bootstrap_tt {
+    padding: 80px 150px;
+}
+
+#section_html h2 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#section_html p {
+    font-size: 15px;
+}
+
+#section_html p span {
+    width: 40px;
+    height: 40px;
+    border-radius: 360px;
+    background-color: aquamarine;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 40px;
+    margin-right: 10px;
+}
+
+#section_thenewcourse .thumbnail {
+    border: none;
+    background-color: #f8f8f8
+}
+
+.section_thenewcourse_button {
+    border: 1px solid #41d2b1;
+    background-color: #f8f8f8;
+    border-radius: 0px;
+    width: 100px;
+    color: #41d2b1;
+    transition: all .3s linear;
+}
+
+.section_thenewcourse_button:hover {
+    background-color: #41d2b1;
+    color: #ffffff;
+    border: 1px solid #41d2b1;
+}
+
+#section_thenewcourse {
+    background-color: #F5F5F5;
+    margin-top: 30px;
+    padding: 50px 40px;
+}
+
+#section_thenewcourse h2 {
+    font-weight: bold;
+    margin-bottom: 80px;
+}
+
+#section_app {
+    padding: 80px 0px;
+}
+
+#section_app_button1, #section_app_button2 {
+    background-color: #41d2b1;
+    border-radius: 0px;
+    width: 100px;
+    color: #ffffff;
+    transition: all .3s linear;
+    border: none;
+    width: 200px;
+    margin-top: 15px;
+    height: 35px;
+    font-weight: bold;
+}
+
+#section_app_button1:hover, #section_app_button2:hover {
+    background-color: #1c7360;
+    border: 1px solid #41d2b1;
+}
+
+#section_app_button2 {
+    margin-left: 3px;
+}
+
+#section_app h2 {
+    margin-bottom: 50px;
+    font-weight: bold;
+    /* font-size: 35px; */
+}
+
+#section_conncet {
+    background-image: url(../images/contact-bg.png);
+    color: #ffffff;
+}
+
+#section_conncet h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#section_conncet p {
+    margin-bottom: 20px;
+}
+
+.tt {
+    margin-bottom: 15px;
+}
+
+#input1, #input2, #input3 {
+    height: 50px;
+    border-radius: 0px;
+}
+
+#input4 {
+    border-radius: 0px;
+}
+
+#button5 {
+    background-color: #41d2b1;
+    border-radius: 0px;
+    color: #ffffff;
+    width: 300px;
+    height: 50px;
+    border: none;
+}
+
+#button5:hover {
+    background-color: #1c7360;
+}
